@@ -88,3 +88,7 @@ let t: [string,number] = ["chai", 1]
 const t1: [string,number] = ["chai", 1]
 t.push("too")
 t1.push("too")
+
+type c = {
+    
+}
